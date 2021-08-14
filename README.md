@@ -16,8 +16,8 @@
 <a href="https://github.com/rohanjebaraj172002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="rohanjebaraj172002" height="30" width="40" /></a>
 </p>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohanjebaraj172002&show_icons=true&count_private=true&theme=yellow&bg_color=0d1117&text_color=FFF" height="165"> 
- <img src="http://github-readme-streak-stats.herokuapp.com?user=rohanjebaraj172002&theme=yellow&&background=#FFFF00&text_color=FFF&border=FFF&dates=FFF" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=rohanjebaraj172002&show_icons=true&count_private=true&theme=yellow&bg_color=0d1117&text_color="FFF" height="165"> 
+ <img src="http://github-readme-streak-stats.herokuapp.com?user=rohanjebaraj172002&theme=yellow&&background=od1117&text_color=FFF&border=FFF&dates=FFF" height="165">
 </p>
  <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
