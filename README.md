@@ -1,5 +1,6 @@
 
-<h1 align="center">Hello!! 👋, I'm Rohan </h1>
+<h1 align="center">Hello!! 👋</h1>
+<p align="center" width= "200">Rohan Jebu</h1>
 <h3 align="center">Budding Developer</h3>
 
 
