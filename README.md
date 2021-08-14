@@ -35,5 +35,5 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?user=rohanjebaraj172002&theme=#FFFFFF&&background=0d1117&text_color=FFF&border=FFF&dates=FFF" height="165">
 </p>  
 <p align="left">
-  <img src="https://activity-graph.herokuapp.com/graph?username=rohanjebaraj172002&theme=yellow&bg_color=0d1117&color=FFF"> 
+  <img src="https://activity-graph.herokuapp.com/graph?username=rohanjebaraj172002&theme=dark&bg_color=0d1117&color=FFF"> 
 </p>
