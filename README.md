@@ -17,7 +17,7 @@
 </p>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=rohanjebaraj172002&show_icons=true&count_private=true&theme=yellow&bg_color=0d1117&text_color=FFF" height="165"> 
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=rohanjebaraj172002&theme=yellow&&background=0d1117&text_color=#FFFF00"&border=FFF&dates=FFF" height="165">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=rohanjebaraj172002&theme=yellow&&background=0d1117&text_color="#FFFF00"&border=FFF&dates=FFF" height="165">
 </p>
  <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
