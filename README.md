@@ -3,7 +3,8 @@
 <h3 align="center">Budding Developer</h3>
 
 
-- 📫 How to reach me ** rohanjebaraj@gmailcom**
+- 📫 Reach me @ rohanjebaraj@gmailcom
+- 🔭 I’m currently student at Loyola-ICAM College of Engineering and Technology
 
 
 <h3 align="left">Connect with me:</h3>
