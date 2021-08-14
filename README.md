@@ -7,6 +7,18 @@
 - 🔭 I’m currently student at Loyola-ICAM College of Engineering and Technology
 
 
+<p align="left">
+ 
+   <a href="https://github.com/rohanjebaraj172002/Rohanjebaraj172002"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rohanjebaraj172002&repo=RohanJebu_Portfolio&theme=danger&bg_color=0d1117&text_color=FFF" /></a>
+  <a href="https://github.com/rohanjebaraj172002/One-Note"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rohanjebaraj172002&repo=One-Note&theme=yellow&bg_color=0d1117&text_color=FFF" /></a>
+</p>
+
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=rohanjebaraj172002&show_icons=true&count_private=true&theme=yellow&bg_color=0d1117&text_color=FFF" height="165"> 
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=rohanjebaraj172002&theme=#FFFFFF&&background=0d1117&text_color=FFF&border=FFF&dates=FFF" height="165">
+</p>  
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
@@ -30,17 +42,6 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
  
 </p>
-<p align="left">
- 
-   <a href="https://github.com/rohanjebaraj172002/Rohanjebaraj172002"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rohanjebaraj172002&repo=RohanJebu_Portfolio&theme=danger&bg_color=0d1117&text_color=FFF" /></a>
-  <a href="https://github.com/rohanjebaraj172002/One-Note"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rohanjebaraj172002&repo=One-Note&theme=yellow&bg_color=0d1117&text_color=FFF" /></a>
-</p>
-
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohanjebaraj172002&show_icons=true&count_private=true&theme=yellow&bg_color=0d1117&text_color=FFF" height="165"> 
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=rohanjebaraj172002&theme=#FFFFFF&&background=0d1117&text_color=FFF&border=FFF&dates=FFF" height="165">
-</p>  
 <!-- <p align="left">
   <img src="https://activity-graph.herokuapp.com/graph?username=rohanjebaraj172002&theme=blue&bg_color=0d1117&color=FFF"> 
 </p>
