@@ -17,7 +17,6 @@
 <p align="left">
 
 <a href="https://www.linkedin.com/in/rohan-jebaraj-3a1117202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohan-jebaraj-3a1117202" height="30" width="40" /></a>
-
 <a href="https://www.instagram.com/___rohanjebu77____/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___rohanjebu77____" height="30" width="40" /></a>
 <a href="https://github.com/rohanjebaraj172002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="rohanjebaraj172002" height="30" width="40" /></a>
 </p>
