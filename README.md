@@ -29,8 +29,4 @@
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
   <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>   </p>
-  [![Rohan's github activity graph](https://activity-graph.herokuapp.com/graph?username=rohanjebaraj172002&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<p align="left">
-  <img src="https://activity-graph.herokuapp.com/graph?username=rohanjebaraj172002&theme=dark&bg_color=0d1117&color=FFF"> 
-</p>
+ 
