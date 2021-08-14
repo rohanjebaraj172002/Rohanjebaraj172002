@@ -1,6 +1,6 @@
 
 <h3 align="center">Hello!! 👋</h3>
-<h1 align="center" width= "200">Rohan Jebu</h1>
+<h1 align="center">Rohan Jebu</h1>
 <h6 align="center">Budding Developer</h6>
 
 
