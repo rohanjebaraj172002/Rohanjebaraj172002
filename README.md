@@ -1,7 +1,7 @@
 
-<h1 align="center">Hello!! 👋</h1>
-<p align="center" width= "200">Rohan Jebu</h1>
-<h3 align="center">Budding Developer</h3>
+<h3 align="center">Hello!! 👋</h3>
+<h1 align="center" width= "200">Rohan Jebu</h1>
+<h6 align="center">Budding Developer</h6>
 
 
 - 📫 How to reach me ** rohanjebaraj@gmailcom**
