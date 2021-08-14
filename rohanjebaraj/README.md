@@ -6,7 +6,7 @@
 - 📫 How to reach me ** rohanjebaraj@gmailcom**
 
 <center>
-  <p>"Welcome!" width="300"/></p></center>
+  <p>Welcome!></p></center>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
