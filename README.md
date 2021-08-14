@@ -32,8 +32,8 @@
 </p>
 <p align="left">
  
-   <a href="https://github.com/rohanjebaraj172002/RohanJebu_Portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rohanjebarj172002&repo=RohanJebu_Portfolio&theme=radical&bg_color=0d1117&text_color=FFF" /></a>
-  <a href="https://github.com/rohanjebaraj172002/One-Note"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rohanjebarj172002&repo=One-Note&theme=radical&bg_color=0d1117&text_color=FFF" /></a>
+   <a href="https://github.com/rohanjebaraj172002/Rohanjebaraj172002"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rohanjebaraj172002&repo=RohanJebu_Portfolio&theme=radical&bg_color=0d1117&text_color=FFF" /></a>
+  <a href="https://github.com/rohanjebaraj172002/One-Note"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rohanjebaraj172002&repo=One-Note&theme=radical&bg_color=0d1117&text_color=FFF" /></a>
 </p>
 
 
