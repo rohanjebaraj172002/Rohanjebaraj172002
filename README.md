@@ -20,4 +20,4 @@
 <a href="https://www.instagram.com/___rohanjebu77____/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___rohanjebu77____" height="30" width="40" /></a>
 <a href="https://github.com/rohanjebaraj172002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="rohanjebaraj172002" height="30" width="40" /></a>
 </p>
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=rohanjebaraj172002&show_icons=true&count_private=true&theme=blue&bg_color=0d1117&text_color=FFF" ></p> 
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=rohanjebaraj172002&show_icons=true&count_private=true&theme=dark&bg_color=0d1117&text_color=FFF" ></p> 
