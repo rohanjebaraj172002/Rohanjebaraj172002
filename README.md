@@ -18,7 +18,7 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=rohanjebaraj172002&show_icons=true&count_private=true&theme=yellow&bg_color=0d1117&text_color=FFF" height="165">
   
-   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rohanjebaraj172002&theme=yellow" alt="rohanjebaraj172002" />
+   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rohanjebaraj172002&theme=yellow" height="165" alt="rohanjebaraj172002" />
 </p>
 
  <h3 align="left">Languages and Tools:</h3>
