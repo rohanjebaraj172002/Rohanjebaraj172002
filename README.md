@@ -2,7 +2,7 @@
 <h1 align="center">Hello!!👋 Rohan Jebu</h1>
 <h3 align="center">Budding Developer</h3>
 
-- 📫 Reach me @ rohanjebaraj@gmailcom
+- 📫 Reach me @ rohanjebaraj@gmailcom/rohanjebaraj.23it@licet.ac.in
 - 🔭 I’m currently student at Loyola-ICAM College of Engineering and Technology.
 <p align="left">
 
