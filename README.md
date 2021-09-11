@@ -2,8 +2,8 @@
 <h1 align="center">Hello!!👋 Rohan Jebu</h1>
  <h3 align="center">Budding Developer</h3>
 
-- 📫 Reach me at <a href=" rohanjebaraj@gmailcom" >rohanjebaraj@gmailcom</a> /rohanjebaraj.23it@licet.ac.in
-- 🔭 I’m currently student at Loyola-ICAM College of Engineering and Technology.
+- 📫 Reach me at <a href=" rohanjebaraj@gmailcom" >rohanjebaraj@gmailcom</a> or  <a href = "rohanjebaraj.23it@licet.ac.in"> rohanjebaraj.23it@licet.ac.in </a>
+- 🔭 I’m currently pursuing my B.TECH engineering from Loyola-ICAM College of Engineering and Technology, Chennai.
 <p align="left">
 
 <a href="https://www.linkedin.com/in/rohan-jebaraj-3a1117202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohan-jebaraj-3a1117202" height="30" width="40" /></a>
