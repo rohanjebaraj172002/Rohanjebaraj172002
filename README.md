@@ -37,6 +37,10 @@
 </p>  
 [![Rohan github activity graph](https://activity-graph.herokuapp.com/graph?username=rohanjebaraj172002&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<p align="left">
+  <img src="https://activity-graph.herokuapp.com/graph?username=roshie&theme=redical&bg_color=0d1117&color=FFF"> 
+</p>
+
 
 
 
