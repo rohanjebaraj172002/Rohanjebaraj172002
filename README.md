@@ -33,7 +33,7 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=rohanjebaraj172002&show_icons=true&count_private=true&theme=blue&bg_color=0d1117&text_color=FFF" height="165"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=fabianferno&show_icons=true&title_color=018596&icon_color=00E1F7FF&bg_color=0d1117&text_color=FFF&border_color=444&count_private=true" height="165">
+   <img src="http://github-readme-streak-stats.herokuapp.com?user=rohanjebaraj172002&theme=blux&&background=0d1117&border=444" height="165">
 </p>  
 <!-- [![Rohan github activity graph](https://activity-graph.herokuapp.com/graph?username=rohanjebaraj172002&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
  -->
