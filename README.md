@@ -36,10 +36,11 @@
    <img src="http://github-readme-streak-stats.herokuapp.com?user=rohanjebaraj172002&theme=blux&&background=0d1117&border=444" height="165">
 </p>  
 <!-- [![Rohan github activity graph](https://activity-graph.herokuapp.com/graph?username=rohanjebaraj172002&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
- -->
+ 
   <p align="left">
   <img src="https://activity-graph.herokuapp.com/graph?username=rohanjebaraj172002&theme=react-dark&bg_color=0d1117&color=FFF"> 
 </p> 
+-->
 
 
 
