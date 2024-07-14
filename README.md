@@ -2,7 +2,7 @@
 <h1 align="center">Hello!!👋 Rohan Jebu</h1>
  <h3 align="center">Budding Developer</h3>
 
-- 📫 Reach me at <a href=" rohanjebaraj@gmailcom" >rohanjebaraj@gmailcom</a> or  <a href = "rohanjebaraj.23it@licet.ac.in"> rohanjebaraj.23it@licet.ac.in </a>
+- 📫 Reach me at <a href=" rohanjebaraj@gmailcom" >rohanjebaraj@gmailcom</a> 
 - 🔭 I’m currently pursuing my B.TECH engineering from Loyola-ICAM College of Engineering and Technology, Chennai.
 <p align="left">
 
